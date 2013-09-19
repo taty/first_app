@@ -38,9 +38,10 @@ group :doc do
 end
 
 
-group :production do
-  gem 'pg', '0.12.2'
-end
+#group :development, :test  do
+#  gem 'pg', '0.12.2'
+#end
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
