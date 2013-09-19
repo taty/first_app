@@ -39,7 +39,7 @@ end
 
 
 #group :development, :test  do
-#  gem 'pg', '0.12.2'
+  gem 'pg'
 #end
 
 # Use ActiveModel has_secure_password
